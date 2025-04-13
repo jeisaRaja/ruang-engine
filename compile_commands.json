@@ -1,0 +1,53 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-Wall",
+      "-Wfatal-errors",
+      "-g",
+      "-std=c++17",
+      "-I./libs/",
+      "-o",
+      "ruang",
+      "./src/Main.cpp"
+    ],
+    "directory": "/home/jeisa/Programming/game-engine/ruang-engine",
+    "file": "/home/jeisa/Programming/game-engine/ruang-engine/src/Main.cpp",
+    "output": "/home/jeisa/Programming/game-engine/ruang-engine/ruang"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-Wall",
+      "-Wfatal-errors",
+      "-g",
+      "-std=c++17",
+      "-I./libs/",
+      "-o",
+      "ruang",
+      "./src/Game/Game.cpp"
+    ],
+    "directory": "/home/jeisa/Programming/game-engine/ruang-engine",
+    "file": "/home/jeisa/Programming/game-engine/ruang-engine/src/Game/Game.cpp",
+    "output": "/home/jeisa/Programming/game-engine/ruang-engine/ruang"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-Wall",
+      "-Wfatal-errors",
+      "-g",
+      "-std=c++17",
+      "-I./libs/",
+      "-o",
+      "ruang",
+      "./src/Graphics/Camera.cpp"
+    ],
+    "directory": "/home/jeisa/Programming/game-engine/ruang-engine",
+    "file": "/home/jeisa/Programming/game-engine/ruang-engine/src/Graphics/Camera.cpp",
+    "output": "/home/jeisa/Programming/game-engine/ruang-engine/ruang"
+  }
+]
